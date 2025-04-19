@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Order AI Devices">c582b6748349221036cfb1d6feaad3c0</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-19 10:50:37</sys_created_on>
+        <sys_id>0913b2b48349221036cfb1d6feaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Order AI Devices</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+        <sys_update_name>sc_cat_item_category_0913b2b48349221036cfb1d6feaad36c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-19 10:50:37</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
