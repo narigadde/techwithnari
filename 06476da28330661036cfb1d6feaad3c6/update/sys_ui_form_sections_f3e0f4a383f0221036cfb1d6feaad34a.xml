@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f3e0f4a383f0221036cfb1d6feaad34a" sys_domain="global" table="x_snc_techwithnari_device_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-15 04:09:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80f0f4a383f0221036cfb1d6feaad34d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_techwithnari_device_request" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">f3e0f4a383f0221036cfb1d6feaad34a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-15 04:09:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-15 04:11:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1041bca383f0221036cfb1d6feaad3cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_techwithnari_device_request" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">f3e0f4a383f0221036cfb1d6feaad34a</sys_ui_form>
+            <sys_ui_section caption="Device Detauls" display_value="Device Detauls" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">4841bca383f0221036cfb1d6feaad341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-15 04:11:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-15 04:17:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ec27c2783f0221036cfb1d6feaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_techwithnari_device_request" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">f3e0f4a383f0221036cfb1d6feaad34a</sys_ui_form>
+            <sys_ui_section caption="Delivery Details" display_value="Delivery Details" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">46c27c2783f0221036cfb1d6feaad336</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-15 04:17:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_techwithnari_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-15 04:09:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3e0f4a383f0221036cfb1d6feaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_techwithnari_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f3e0f4a383f0221036cfb1d6feaad34a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-15 04:09:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New device request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>device request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a3c5924b651012104f340572a94740ab</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-12 05:35:52</sys_created_on>
+        <sys_id>4ee7a1268330661036cfb1d6feaad32c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>device request</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+        <sys_update_name>sys_wizard_answer_4ee7a1268330661036cfb1d6feaad32c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-12 05:35:52</sys_updated_on>
+        <table/>
+        <target_url>x_snc_techwithnari_device_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

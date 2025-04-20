@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-15 03:36:41</sys_created_on>
+        <sys_id>2569e42b83b0221036cfb1d6feaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_techwithnari_ai_devices.x_snc_techwithnari.ai_devices_user</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+        <sys_security_acl display_value="x_snc_techwithnari_ai_devices">2d69e42b83b0221036cfb1d6feaad3f7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2569e42b83b0221036cfb1d6feaad3fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-15 03:36:41</sys_updated_on>
+        <sys_user_role display_value="x_snc_techwithnari.ai_devices_user" name="x_snc_techwithnari.ai_devices_user">c969e42b83b0221036cfb1d6feaad361</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</application>
+        <file_path/>
+        <instance_id>2e5c56f6db26b590199b172913961988</instance_id>
+        <instance_name>dev218630</instance_name>
+        <name>sys_security_acl_role_2569e42b83b0221036cfb1d6feaad3fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-15 03:36:41</sys_created_on><sys_id>2569e42b83b0221036cfb1d6feaad3fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_techwithnari_ai_devices.x_snc_techwithnari.ai_devices_user</sys_name><sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package><sys_policy/><sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope><sys_security_acl display_value="x_snc_techwithnari_ai_devices">2d69e42b83b0221036cfb1d6feaad3f7</sys_security_acl><sys_update_name>sys_security_acl_role_2569e42b83b0221036cfb1d6feaad3fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-15 03:36:41</sys_updated_on><sys_user_role display_value="x_snc_techwithnari.ai_devices_user" name="x_snc_techwithnari.ai_devices_user">c969e42b83b0221036cfb1d6feaad361</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-921416092</payload_hash>
+        <record_name>x_snc_techwithnari_ai_devices.x_snc_techwithnari.ai_devices_user</record_name>
+        <reverted_from/>
+        <source>c6476da28330661036cfb1d6feaad3c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-15 03:36:41</sys_created_on>
+        <sys_id>6569e42b83b0221036cfb1d6feaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19637853ee30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-15 03:36:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6969e42b0ab02210de3776599f2fe6fd</update_guid>
+        <update_guid_history>6969e42b0ab02210de3776599f2fe6fd:-921416092</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_techwithnari_ai_devices.x_snc_techwithnari.ai_devices_user">8cad75ff83b0221036cfb1d6feaad38f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 04:23:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>005a59285b8741d682cfe1a0cd1dde24</sys_id>
+        <sys_metadata>2569e42b83b0221036cfb1d6feaad3fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_techwithnari_ai_devices.x_snc_techwithnari.ai_devices_user</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+        <sys_parent display_value="x_snc_techwithnari_ai_devices">2d69e42b83b0221036cfb1d6feaad3f7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+        <sys_scope_delete display_value="">4c6921c671d7453ca6e54b2e391eca04</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2569e42b83b0221036cfb1d6feaad3fb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2569e42b83b0221036cfb1d6feaad3fb">6569e42b83b0221036cfb1d6feaad3fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 04:23:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

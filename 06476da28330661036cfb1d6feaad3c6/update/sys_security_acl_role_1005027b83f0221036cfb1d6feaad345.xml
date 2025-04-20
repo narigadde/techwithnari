@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 04:57:45</sys_created_on>
+        <sys_id>1005027b83f0221036cfb1d6feaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_techwithnari.release_management</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+        <sys_security_acl display_value="x_snc_techwithnari_ai_devices.owned_by">77c4027b83f0221036cfb1d6feaad3df</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1005027b83f0221036cfb1d6feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 04:57:45</sys_updated_on>
+        <sys_user_role display_value="x_snc_techwithnari.release_management" name="x_snc_techwithnari.release_management">0d7729e28330661036cfb1d6feaad3d6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
