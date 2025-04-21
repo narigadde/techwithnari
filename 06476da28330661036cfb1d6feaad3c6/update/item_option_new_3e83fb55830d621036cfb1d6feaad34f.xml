@@ -37,18 +37,18 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>delivery_address</name>
-        <order>700</order>
+        <name>total_amount</name>
+        <order>500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Delivery Address</question_text>
-        <read_only>false</read_only>
+        <question_text>Total Amount</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table/>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-19 11:06:15</sys_created_on>
-        <sys_id>10667ab88349221036cfb1d6feaad348</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Delivery Address</sys_name>
-        <sys_package/>
+        <sys_created_on>2025-04-21 04:50:14</sys_created_on>
+        <sys_id>3e83fb55830d621036cfb1d6feaad34f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total Amount</sys_name>
+        <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
-        <sys_update_name>item_option_new_10667ab88349221036cfb1d6feaad348</sys_update_name>
+        <sys_update_name>item_option_new_3e83fb55830d621036cfb1d6feaad34f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-21 05:00:15</sys_updated_on>
+        <sys_updated_on>2025-04-21 04:59:53</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=10667ab88349221036cfb1d6feaad348"/>
-    <fx_price action="delete_multiple" query="id=10667ab88349221036cfb1d6feaad348"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e83fb55830d621036cfb1d6feaad34f"/>
+    <fx_price action="delete_multiple" query="id=3e83fb55830d621036cfb1d6feaad34f"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>10667ab88349221036cfb1d6feaad348</id>
+        <id>3e83fb55830d621036cfb1d6feaad34f</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-19 11:06:15</sys_created_on>
-        <sys_id>0ea6beb88349221036cfb1d6feaad3be</sys_id>
+        <sys_created_on>2025-04-21 04:50:14</sys_created_on>
+        <sys_id>d9c3f7dd830d621036cfb1d6feaad3cc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-19 11:06:15</sys_updated_on>
+        <sys_updated_on>2025-04-21 04:50:14</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>10667ab88349221036cfb1d6feaad348</id>
+        <id>3e83fb55830d621036cfb1d6feaad34f</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-19 11:06:15</sys_created_on>
-        <sys_id>cea6beb88349221036cfb1d6feaad3bd</sys_id>
+        <sys_created_on>2025-04-21 04:50:14</sys_created_on>
+        <sys_id>91c3f7dd830d621036cfb1d6feaad3cb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-19 11:06:15</sys_updated_on>
+        <sys_updated_on>2025-04-21 04:50:14</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
