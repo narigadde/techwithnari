@@ -4,6 +4,7 @@
         <element attributes="edge_encryption_enabled=true" label="Device Description" max_length="80" name="u_device_description" read_only="true" type="string"/>
         <element attributes="encode_utf8=false" label="Requester Name" mandatory="true" max_length="32" name="u_requester_name" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Quantity" mandatory="true" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="omit_sys_original=true" label="Total Cost" max_length="20" name="u_total_cost" read_only="true" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Warranty Expiration" max_length="40" name="u_warranty_expiration" read_only="true" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_state" type="string">
             <choice>
