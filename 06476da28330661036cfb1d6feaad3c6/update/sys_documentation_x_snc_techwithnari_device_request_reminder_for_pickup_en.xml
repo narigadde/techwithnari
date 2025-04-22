@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reminder_for_pickup" label="Reminder For PickUp" language="en" table="x_snc_techwithnari_device_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reminder_for_pickup</element>
+            <help/>
+            <hint/>
+            <label>Reminder For PickUp</label>
+            <language>en</language>
+            <name>x_snc_techwithnari_device_request</name>
+            <plural>Reminder For PickUps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 11:14:43</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Reminder For PickUp</sys_name>
+            <sys_package display_value="Techwithnari" source="x_snc_techwithnari">06476da28330661036cfb1d6feaad3c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Techwithnari">06476da28330661036cfb1d6feaad3c6</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_techwithnari_device_request_reminder_for_pickup_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 11:19:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

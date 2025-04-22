@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>387c45ed83c1a21036cfb1d6feaad30c</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>97559a75834de21036cfb1d6feaad339</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_device_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>747c45ed83c1a21036cfb1d6feaad30d</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_requester_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>7c7c45ed83c1a21036cfb1d6feaad30d</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>9b559a75834de21036cfb1d6feaad33a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>747c45ed83c1a21036cfb1d6feaad30e</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>7c7c45ed83c1a21036cfb1d6feaad30e</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>9b559a75834de21036cfb1d6feaad33b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_quantity</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>747c45ed83c1a21036cfb1d6feaad30f</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>7c7c45ed83c1a21036cfb1d6feaad30f</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>9b559a75834de21036cfb1d6feaad33c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>u_delivery_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>747c45ed83c1a21036cfb1d6feaad310</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,41 +116,55 @@
             <element>u_total_cost</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>7c7c45ed83c1a21036cfb1d6feaad310</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>9b559a75834de21036cfb1d6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reminder_for_pickup</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>747c45ed83c1a21036cfb1d6feaad311</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>9b559a75834de21036cfb1d6feaad33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-21 11:17:41</sys_created_on>
-            <sys_id>7c7c45ed83c1a21036cfb1d6feaad311</sys_id>
+            <sys_created_on>2025-04-22 11:14:44</sys_created_on>
+            <sys_id>93559a75834de21036cfb1d6feaad33f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_techwithnari_device_request" sys_domain="global" view="Default view">ecadac2f83b0221036cfb1d6feaad3b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-21 11:17:41</sys_updated_on>
+            <sys_updated_on>2025-04-22 11:14:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
